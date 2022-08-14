@@ -1,0 +1,8 @@
+1. + class
+Explanation: All three nearest point are of + class so this point will be classified as + class.
+
+2. - class
+Explanation: Now this point will be classified as – class because there are 4 – class and 3 + class point nearest to the data point.
+
+3. Both of the above
+Explanation: The first step after computing the centroids is to assign the data points to the clusters, after which we recompute the centroid and reassign the data points to the new clusters. Hence both these steps are equally important.

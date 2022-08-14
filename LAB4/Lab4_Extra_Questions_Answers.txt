@@ -1,0 +1,20 @@
+1. 34%  (this option was not available, hence those who attempted will get +1 mark)
+Explanation: Correlation coefficient is r. 
+r^2 is used to determine the accuracy/relationship of the model. 
+Which implies, in percentage, r^2 is : (0.58*0.58)*100 = 34% 
+
+2. by value of slope
+Explanation: y = B0 + B1*x. 
+Based on the value of B1, the value of y changes.
+
+3. Because the outcome variable is nominal not continuous
+Explanation: Nominal variables are those which are categorical in nature and are distinct. Linear regression always requires continuous numerical values.
+
+4. -11
+Explanation: 
+residual = y - yhat
+yhat = 35 + 0.72(105) = 110.6
+residual = 99.6 - 110.6 = -11
+
+5.strong positive correlation
+Explanation: The scattered points lie almost in the same line and vary linearly with each other.The more the points are towards the diagonals of the graph, the weaker the plot.

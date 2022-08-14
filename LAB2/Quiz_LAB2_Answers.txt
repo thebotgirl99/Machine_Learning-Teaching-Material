@@ -1,0 +1,20 @@
+Quiz - LAB2 Answers:
+
+1. Which of the following is not a correct sub-package of SciPy?
+scipy.source
+
+2.Which of the following is true?
+SciPy is built on top of NumPy arrays
+
+3.What will be output for the following code?
+jamesjamesjamesjamesjamesjames
+
+4.What is the output of the following code?
+The program executes an error
+
+5.Write a NumPy program to compute the determinant of an array
+(just write the basic syntax)
+np.linalg.det()
+
+6.Write a NumPy program to compute the sum of the diagonal element of a given array (just write the basic syntax)
+np.trace()

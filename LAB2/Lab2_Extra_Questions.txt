@@ -1,0 +1,10 @@
+1. Write a program which can compute the factorial of a given numbers by taking input from the user. (hint : x=int(raw_input())
+(Eg - i/p = 8, o/p = 40320)
+2. Define a class which takes in 3 methods (climate, play, condition) and print the following based on user input:
+a. If the climate is windy, condition is light, play = yes
+a. If the climate is windy, condition is hard, play = no
+a. If the climate is sunny, condition is light, play = yes
+a. If the climate is sunny, condition is hard, play = no
+(Eg - i/p = windy, hard , o/p = no)
+
+ 

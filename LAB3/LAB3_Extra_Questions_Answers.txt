@@ -1,0 +1,6 @@
+1. Error : 'derived_answer' object has no attribute 'x'
+
+2. parent
+
+3. welcome again
+

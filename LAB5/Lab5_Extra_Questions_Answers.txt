@@ -1,0 +1,26 @@
+Answers:
+
+1.P(y = 1|x) is 0.46
+Explanation: For a given input (example), the logistic regression model always provides an output specifying the probability of that example to occur (1). For eg, given an event x, the probability for the input to occur (p=1) is 0.46. Meaning, there is a less chance for X to occur.
+
+2.Yes
+Explanation: Logistic regression can be used for both binary classification as well as multi-class clasification.
+
+3. This question is left to your creativity. Marks will be given accordingly.
+One such example I can provide for this question is:
+Here, my 3 input features are - fly, small, swing from trees
+and my 4 output classes are - dog, monkey, bird, mouse
+
+              Fly?
+              / \
+            Yes  No
+            /     \
+          Bird     small?
+                    /  \
+                  Yes  No
+                  /     \
+               Mouse     swing from trees?
+                          /        \
+                        Yes        No
+                        /           \
+                     Monkey         Dog

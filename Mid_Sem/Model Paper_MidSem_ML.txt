@@ -1,0 +1,17 @@
+Model Paper - Mid Sem Lab Exam
+
+Date: Any time after December 3rd
+
+Total : 15 marks (6 questions)
+
+Mark Distribution:
+2 MCQs - 2x0.5 = 1 mark
+2 fill in the blanks - 2x0.5 = 1 mark
+1 lab question - 1x6 = 6 marks (there will be 2 sub questions in this - 4+2 marks)
+1 lab question - 1x7 = 7 marks (there will be 2 sub questions in this - 4+3 marks)
+
+Syllabus:
+MCQs and Fill in the blanks (theory) : Types of machine learning (supervised, unsupervised, semi supervised, reinforcement learning), curse of dimensionality, underfitting and overfitting, cross validation (and types), regularization, ensembling (and types)
+
+Note: For the 2 lab questions, upload your answers as a ".ipynb" file. The questions can be from these 5 topics: logistic regression, K means, KNN, Decision tree, agglomerative clustering.
+
